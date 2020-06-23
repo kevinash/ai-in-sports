@@ -1,8 +1,11 @@
 # AI in Sports With Python
 
-See [VIDEO EPISODES](http://ai-learning.vhx.tv)
+See the full [VIDEO COURSE](http://ai-learning.vhx.tv), with access to all episodes and instructional videos!
 
-This video course works best with my book "Applied Machine Learning for Health and Fitness". Check my website: [activefitness.ai/ai-in-sports-with-python](http://activefitness.ai/ai-in-sports-with-python) for the latest updates.
+This video course works best with my book [Applied Machine Learning for Health and Fitness](https://www.apress.com/us/book/9781484257715) - [buy on Amazon](https://www.amazon.com/Applied-Machine-Learning-Health-Fitness/dp/1484257715)
+
+Check my website: [activefitness.ai/ai-in-sports-with-python](http://activefitness.ai/ai-in-sports-with-python) for the latest updates.
+
 
 ![http://activefitness.ai](images/appliedml_banner.png)
 
