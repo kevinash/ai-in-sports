@@ -13,6 +13,8 @@ Check my website: [activefitness.ai/ai-in-sports-with-python](http://activefitne
 
 Welcome! Each This is the source code for the book: you can quickly jump to notebooks from this file. It is recommended that your kernel environment matches the chapter
 
+ [VIDEO COURSE EPISODES](http://ai-learning.vhx.tv)
+
 - Module 1 - Getting Started
     - Episode 1.1 - Getting Started
     - Episode 1.2 - Data Scientist Toolbox
