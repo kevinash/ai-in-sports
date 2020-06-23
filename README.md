@@ -11,7 +11,7 @@ Check my website: [activefitness.ai/ai-in-sports-with-python](http://activefitne
 
 ## Table of Contents
 
-Welcome! Each This is the source code for the book: you can quickly jump to notebooks from this file. It is recommended that your kernel environment matches the chapter
+Welcome! Each This is the source code for the video course [AI in Sports with Python](http://ai-learning.vhx.tv). you can quickly jump to notebooks from this file. It is recommended that your kernel environment for Azure Notebooks is set to Python 3.6. Check [requirements.txt](requirements.txt) for dependencies.
 
  [VIDEO COURSE EPISODES](http://ai-learning.vhx.tv)
 
