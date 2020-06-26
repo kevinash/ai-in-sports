@@ -15,6 +15,8 @@ Welcome! Each This is the source code for the video course [AI in Sports with Py
 
  [VIDEO COURSE EPISODES](http://ai-learning.vhx.tv)
 
+ [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/kevin-ashley/projects/ai-in-sports)
+
 - Module 1 - Getting Started
     - Episode 1.1 - Getting Started
     - Episode 1.2 - Data Scientist Toolbox
