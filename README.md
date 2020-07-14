@@ -11,7 +11,7 @@ Check my website: [activefitness.ai/ai-in-sports-with-python](http://activefitne
 
 ## Table of Contents
 
-Welcome! Each This is the source code for the video course [AI in Sports with Python](http://ai-learning.vhx.tv). you can quickly jump to notebooks from this file. It is recommended that your kernel environment for Azure Notebooks is set to Python 3.6. Check [requirements.txt](requirements.txt) for dependencies.
+Welcome! Each This is the source code for the video course [AI in Sports with Python](http://ai-learning.vhx.tv). you can quickly jump to video and source notebooks from here. It is recommended that your kernel environment is set to Python 3.6. Check [requirements.txt](requirements.txt) for dependencies.
 
  [VIDEO COURSE EPISODES](http://ai-learning.vhx.tv)
 
@@ -20,10 +20,10 @@ Welcome! Each This is the source code for the video course [AI in Sports with Py
     - Episode 1.2 - Data Scientist Toolbox
 - Module 2 - Physics of Sports
     - Episode 2.1 - Sensors
-    - Episode 2.2 - Kinematics ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-2-2-kinematics) | [Notebook](4_Kinematics.ipynb))
-    - Episode 2.3 - Figure Skating ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-2-3-figure-skating) | [Notebook](5_FigureSkating.ipynb))
+    - Episode 2.2 - Kinematics ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-2-2-kinematics) | [Notebook](2.2_Kinematics.ipynb))
+    - Episode 2.3 - Figure Skating ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-2-3-figure-skating) | [Notebook](2.3_FigureSkating.ipynb))
 - Module 3 - Neural Networks
-    - Episode 3.1 - Neural Networks ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-4-1-neural-networks-101) | [Notebook](3.1_NeuralNetworks.ipynb))
+    - Episode 3.1 - Neural Networks ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-4-1-neural-networks-101) | [Notebook](3.1_NeuralNetworks101.ipynb))
     - Episode 3.2 - Simple Neural Network ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-4-2-make-a-simple-neural-net) | [Notebook](3.2_SimpleNeuralNetwork.ipynb))
     - Episode 3.3 - Multi-Layer Neural Network ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/amlhf-ch4-3-multilayernetworks) | [Notebook](3.3_Multi-LayerNetworks.ipynb))
 - Module 4 - Deep Vision
@@ -31,7 +31,7 @@ Welcome! Each This is the source code for the video course [AI in Sports with Py
     - Episode 4.2 - Classification ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/amlhf-ch6-2-classification) | [Notebook](4.2_Classification.ipynb)
     - Episode 4.3 - Detection ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/amlhf-ch6-3-detection) | [Notebook](4.3_Detection.ipynb))
     - Episode 4.4 - Segmentation ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/amlhf-ch6-4-segmentation) | [Notebook](4.4_Segmentation.ipynb))
-    - Episode 4.5 - Human Body Joints ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-4-5-humanjoints) | [Notebook](4.5_HumanBodyJoints.ipynb))
+    - Episode 4.5 - Human Body Joints ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-4-5-humanjoints) | [Notebook](4.5_HumanBodyKeypoints.ipynb))
 - Module 5 - Human Body Pose Estimation
 - Module 6 - Video Action Recognition 
 - Module 7  - Reinforcement Learning
