@@ -35,7 +35,7 @@ Welcome! Each This is the source code for the video course [AI in Sports with Py
 - Module 5 - Human Body Pose Estimation
 - Module 6 - Video Action Recognition 
 - Module 7  - Reinforcement Learning
-    - Episode 7.1 - Reinforcement Learning ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-10-1-reinforcement-learning) | [Notebook])(7.1_ReinforcementLearning.ipynb))
+    - Episode 7.1 - Reinforcement Learning ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-10-1-reinforcement-learning) | [Notebook](7.1_ReinforcementLearning.ipynb))
     - Episode 7.2 - Skateboarding ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-10-2-skateboarding) | [Notebook](7.2_Skateboarding.ipynb))
     - Episode 7.3 - Gymnastics ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-10-3-gymnastics) | [Notebook](7.3_Gymnastics.ipynb))
     - Episode 7.4 - Human Models ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-10-4-human-models) | [Notebook](7.4_HumanModels.ipynb))
