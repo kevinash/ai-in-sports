@@ -28,7 +28,7 @@ Welcome! Each This is the source code for the video course [AI in Sports with Py
     - Episode 3.3 - Multi-Layer Neural Network ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/amlhf-ch4-3-multilayernetworks) | [Notebook](3.3_Multi-LayerNetworks.ipynb))
 - Module 4 - Deep Vision
     - Episode 4.1 - Computer Vision ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/amlhf-ch6-1-computervision) | [Notebook](4.1_ComputerVision.ipynb))
-    - Episode 4.2 - Classification ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/amlhf-ch6-2-classification) | [Notebook](4.2_Classification.ipynb)
+    - Episode 4.2 - Classification ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/amlhf-ch6-2-classification) | [Notebook](4.2_Classification.ipynb))
     - Episode 4.3 - Detection ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/amlhf-ch6-3-detection) | [Notebook](4.3_Detection.ipynb))
     - Episode 4.4 - Segmentation ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/amlhf-ch6-4-segmentation) | [Notebook](4.4_Segmentation.ipynb))
     - Episode 4.5 - Human Body Joints ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-4-5-humanjoints) | [Notebook](4.5_HumanBodyKeypoints.ipynb))
