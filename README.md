@@ -15,14 +15,12 @@ Welcome! Each This is the source code for the video course [AI in Sports with Py
 
  [VIDEO COURSE EPISODES](http://ai-learning.vhx.tv)
 
- [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/kevin-ashley/projects/ai-in-sports)
-
 - Module 1 - Getting Started
     - Episode 1.1 - Getting Started
     - Episode 1.2 - Data Scientist Toolbox
 - Module 2 - Physics of Sports
     - Episode 2.1 - Sensors
-    - [Episode 2.2 - Kinematics](4_Kinematics.ipynb)
+    - Episode 2.2 - Kinematics [Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ [Notebook](4_Kinematics.ipynb)episode-2-2-kinematics)
     - [Episode 2.3 - Figure Skating](5_FigureSkating.ipynb)
 - Module 3 - Neural Networks
     - [Episode 3.1 - Neural Networks](3.1_NeuralNetworks.ipynb)
