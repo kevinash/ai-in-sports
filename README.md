@@ -32,7 +32,11 @@ Welcome! Each This is the source code for the video course [AI in Sports with Py
     - Episode 4.3 - Detection ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/amlhf-ch6-3-detection) | [Notebook](4.3_Detection.ipynb))
     - Episode 4.4 - Segmentation ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/amlhf-ch6-4-segmentation) | [Notebook](4.4_Segmentation.ipynb))
     - Episode 4.5 - Human Body Joints ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-4-5-humanjoints) | [Notebook](4.5_HumanBodyKeypoints.ipynb))
-- Module 5 - Human Body Pose Estimation
+- Module 5 - Pose Estimation
+    - Episode 5.1 - Pose Estimation ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-4-5-humanjoints))
+    - Episode 5.2 - Surfing ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-4-5-humanjoints) | [Notebook](5.2_Surfing.ipynb))
+    - Episode 5.3 - Skill Level Detection ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-4-5-humanjoints) | [Notebook](5.3_SkillLevelDetection.ipynb))
+    - Episode 5.4 - Multi-Person Detection ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-4-5-humanjoints) | [Notebook](5.4_Multi-PersonDetection.ipynb))
 - Module 6 - Video Action Recognition 
 - Module 7  - Reinforcement Learning
     - Episode 7.1 - Reinforcement Learning ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-10-1-reinforcement-learning) | [Notebook](7.1_ReinforcementLearning.ipynb))
