@@ -38,6 +38,8 @@ Welcome! Each This is the source code for the video course [AI in Sports with Py
     - Episode 5.3 - Skill Level Detection ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-4-5-humanjoints) | [Notebook](5.3_SkillLevelDetection.ipynb))
     - Episode 5.4 - Multi-Person Detection ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-5-4-multipersondetection) | [Notebook](5.4_Multi-PersonDetection.ipynb))
 - Module 6 - Video Action Recognition 
+    - Episode 6.1 - Video Action Recognition ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-6-1-videoactionrecognition) | [Notebook](6.1_VideoActionRecognition.ipynb))
+    - Episode 6.2 - Video Classification ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-6-2-videoclassification) | [Notebook](6.2_VideoClassification.ipynb))
 - Module 7  - Reinforcement Learning
     - Episode 7.1 - Reinforcement Learning ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-10-1-reinforcement-learning) | [Notebook](7.1_ReinforcementLearning.ipynb))
     - Episode 7.2 - Skateboarding ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-10-2-skateboarding) | [Notebook](7.2_Skateboarding.ipynb))
