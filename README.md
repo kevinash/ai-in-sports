@@ -1,4 +1,4 @@
-# AI in Sports With Python
+# AI in Sports with Python
 
 See the full [VIDEO COURSE](http://ai-learning.vhx.tv), with access to all episodes and instructional videos!
 
