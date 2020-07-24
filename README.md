@@ -13,9 +13,9 @@ Check my website: [activefitness.ai/ai-in-sports-with-python](http://activefitne
 
 Please, use these supplemental materials and code for the video course [AI in Sports with Python](http://ai-learning.vhx.tv). 
 
-[Complete list of videos](https://ai-learning.vhx.tv/products/ai-in-sports-with-python), you can also navigate to indivi
+[Complete list of videos](https://ai-learning.vhx.tv/products/ai-in-sports-with-python), you can also navigate to individual videos and notebooks below.
 
-For so It is recommended that your kernel environment is set to Python 3.6. Check [requirements.txt](requirements.txt) for dependencies.
+For notebooks, it is recommended that your kernel environment is set to Python 3. Check [requirements.txt](requirements.txt) for dependencies.
 
  [VIDEO COURSE EPISODES](http://ai-learning.vhx.tv)
 
