@@ -20,9 +20,8 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
  [VIDEO COURSE EPISODES](http://ai-learning.vhx.tv)
 
 - Module 1 - Getting Started
-    - Episode 1.1 - Getting Started
-    - Episode 1.2 - Data Scientist Toolbox
-- Module 2 - Physics of Sports
+    - Episode 1.1 - Getting Started ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-10-4-human-models))
+    - Episode 1.2 - Sport Scientist Toolbox ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-10-4-human-models) | [Notebook](1.2_SportScientistToolbox.ipynb))
     - Episode 2.1 - Sensors
     - Episode 2.2 - Kinematics ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-2-2-kinematics) | [Notebook](2.2_Kinematics.ipynb))
     - Episode 2.3 - Figure Skating ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-2-3-figure-skating) | [Notebook](2.3_FigureSkating.ipynb))
@@ -50,3 +49,5 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
     - Episode 7.3 - Gymnastics ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-10-3-gymnastics) | [Notebook](7.3_Gymnastics.ipynb))
     - Episode 7.4 - Human Models ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-10-4-human-models) | [Notebook](7.4_HumanModels.ipynb))
 - Module 8 - Machine Learning in the Cloud
+    - Episode 8.1 - Machine Learning in the Cloud ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-10-4-human-models) | [Notebook](8.1_CloudBasedAI.ipynb))
+    - Episode 8.2 - Automating, Consuming ML, Pipelines ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-10-4-human-models) | [Notebook](8.2_MLAutomation.ipynb))
