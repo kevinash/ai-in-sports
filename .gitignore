@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+data/kinetics400/dataset/train/*
+data/kinetics400/dataset/valid/*
+
 # Distribution / packaging
 .Python
 build/
