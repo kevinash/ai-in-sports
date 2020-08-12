@@ -21,7 +21,7 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 
 - Module 1 - Getting Started
     - Episode 1.1 - Getting Started ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-1-1-introduction))
-    - Episode 1.2 - Sport Scientist Toolbox ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-10-4-human-models) | [Notebook](1.2_SportScientistToolbox.ipynb))
+    - Episode 1.2 - Sport Scientist Toolbox ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-1-2-tools) | [Notebook](1.2_SportScientistToolbox.ipynb))
 - Module 2 - Physics of Sports
     - Episode 2.1 - Sensors
     - Episode 2.2 - Kinematics ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/episode-2-2-kinematics) | [Notebook](2.2_Kinematics.ipynb))
