@@ -9,3 +9,4 @@ Pillow
 scikit-learn
 gym
 stable-baselines
+keras
