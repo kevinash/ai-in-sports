@@ -19,6 +19,8 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 
  [VIDEO COURSE EPISODES](http://ai-learning.vhx.tv)
 
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevinash/ai-in-sports/HEAD)
+
 - Module 1 - Getting Started
     - Episode 1.1 - Getting Started ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-1-1-introduction))
     - Episode 1.2 - Sport Scientist Toolbox ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-1-2-tools) | [Notebook](1.2_SportScientistToolbox.ipynb))
