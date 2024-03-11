@@ -4,10 +4,10 @@ See the full [VIDEO COURSE](http://ai-learning.vhx.tv), with access to all episo
 
 This video course works best with my book "Applied Machine Learning for Health and Fitness" [APRESS](https://www.apress.com/us/book/9781484257715) or [buy on Amazon](https://www.amazon.com/Applied-Machine-Learning-Health-Fitness/dp/1484257715)
 
-Check my website: [activefitness.ai/ai-in-sports-with-python](http://activefitness.ai/ai-in-sports-with-python) for the latest updates.
+Check my website: [kevinashley.com](http://kevinashley.com) for the latest updates.
 
 
-![http://activefitness.ai](images/ai-in-sports_banner.png)
+![http://kevinashley.com](images/ai-in-sports_banner.png)
 
 ## Table of Contents
 
